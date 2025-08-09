@@ -28,7 +28,7 @@ O desafio consistia em analisar os dados de clientes de uma empresa de telecomun
 
 ## ▶️ Como executar
 ### Método Recomendado (Google Colab)
-1. Clique [neste link](https://colab.research.google.com/drive/1HU57h6hx28NUjzUZRbr-0NI8aJ9Mn6Pe#scrollTo=cbgRV9wF_Fos)
+1. Clique [neste link](https://colab.research.google.com/drive/1zBX2INC7xQ0p-DBhkZycJDNW_nNrxyZ6?usp=sharing)
 2. No Colab, clique em `Arquivo` -> `Salvar uma cópia no Drive`
 3. Rode cada célula sequencialmente ou clique em `Executar tudo`
 
